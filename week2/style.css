@@ -1,0 +1,9 @@
+body {
+    font-family: sans-serif;
+    color: white;
+    background-color: #708090;
+}
+img {
+    border-radius: 2rem;
+    border: 5px double black;
+}
