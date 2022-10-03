@@ -13,10 +13,10 @@ body {
 #topContainer {
     margin-top: 75px;
 }
-img {
+/* img {
     border-radius: 2rem;
     border: 5px double black;
-}
+} */
 nav ul {
     list-style-type: none;
     background-color: #879aad;
