@@ -1,0 +1,36 @@
+body {
+    margin: 0 auto;
+    width: 75%;
+    text-align: center;
+}
+div {
+    margin: 0 auto;
+    text-align: center;
+    padding: 2rem 5rem;
+}
+br {
+    padding: 5rem;
+}
+.bgOne {
+    background-color: red;
+    max-width: 40%;
+}
+.bgTwo {
+    background-color: blue;
+    color: white;
+    max-width: 60%;
+}
+.bgThree {
+    background-color: green;
+    max-width: 85%;
+}
+.purpleBox1 {
+    padding: 4rem 4rem;
+    background-color: purple;
+    float: left;
+}
+.purpleBox2 {
+    padding: 4rem 4rem;
+    background-color: purple;
+    float: right;
+}
