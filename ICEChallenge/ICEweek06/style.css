@@ -1,0 +1,15 @@
+body {
+    margin: 0 auto;
+    background-color: white;
+
+}
+img {
+    z-indposition: absolute;
+    left: 0px;
+    top: 0px;
+    z-index: -1ex;
+}
+.bgColor {
+    background-color: gray ;
+    grid-template-columns: 2/3;
+}
